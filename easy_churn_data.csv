@@ -1,0 +1,7 @@
+CustomerID,Gender,SeniorCitizen,Tenure,MonthlyCharges,Contract,Churn
+C001,Male,0,5,70.35,Month-to-month,Yes
+C002,Female,1,20,89.1,One year,No
+C003,Female,0,15,65.55,Month-to-month,Yes
+C004,Male,1,10,99.0,Two year,No
+C005,Female,0,3,50.25,Month-to-month,Yes
+C006,Male,0,24,85.75,One year,No
